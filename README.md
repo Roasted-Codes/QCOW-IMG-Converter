@@ -1,3 +1,5 @@
+####WARNING - I don't even know if this works######
+
 # qemu-img GUI (.qcow2 <-> .img)
 
 Cross-platform desktop GUI for converting between `.qcow2` and raw `.img` using `qemu-img`.
