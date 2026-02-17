@@ -1,0 +1,35 @@
+# Build output
+bin/
+obj/
+
+# Distribution archives (use GitHub Releases)
+dist/**/*.zip
+
+# Bundled QEMU binaries / installers
+qemu/
+qemu-mac/
+*.exe
+*.deb
+*.tar.gz
+*.tar.zst
+
+# Disk images
+*.qcow2
+*.img
+*.raw
+
+# IDE / editor
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Claude Code local settings
+.claude/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temp directories
+tmp_*/
